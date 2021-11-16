@@ -1,0 +1,43 @@
+{
+  "level": "Graduate",
+  "topics": [
+    [
+      "Social Science",
+      "Economics",
+      "Political Economy"
+    ],
+    [
+      "Social Science",
+      "Political Science",
+      "Comparative Politics"
+    ],
+    [
+      "Social Science",
+      "Economics",
+      "Industrial Organization"
+    ],
+    [
+      "Social Science",
+      "Economics",
+      "Macroeconomics"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "9bcd3fb0-c600-669e-87f7-e1501fdbc05d"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Collective Choice I",
+  "course_description": "This is an applied theory course covering topics in the political economy of democratic countries. This course examines political institutions from a rational choice perspective. The now burgeoning rational choice literature on legislatures, bureaucracies, courts, and elections constitutes the chief focus. Some focus will be placed on institutions from a comparative and/or international perspective.\n",
+  "department_numbers": [
+    "17",
+    "14"
+  ],
+  "extra_course_numbers": "14.296J",
+  "primary_course_number": "17.812J",
+  "learning_resource_types": [
+    "Problem Sets"
+  ],
+  "title": "Course Metadata"
+}
